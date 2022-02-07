@@ -1,0 +1,162 @@
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\appsettings.json
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.exe
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.deps.json
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.runtimeconfig.json
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\ref\microserviceOfOutgoingPayments.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.pdb
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.csproj.AssemblyReference.cache
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.AssemblyInfoInputs.cache
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.AssemblyInfo.cs
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.csproj.CoreCompileInputs.cache
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\scopedcss\bundle\microserviceOfOutgoingPayments.styles.css
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.csproj.CopyComplete
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\ref\microserviceOfOutgoingPayments.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.pdb
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.genruntimeconfig.cache
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Павел Пальчак\RiderProjects\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\appsettings.Development.json
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\appsettings.json
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.exe
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.deps.json
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.runtimeconfig.json
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\ref\microserviceOfOutgoingPayments.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\microserviceOfOutgoingPayments.pdb
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\DnsClient.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\FluentValidation.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\FluentValidation.Mvc.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\FluentValidation.WebApi.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\SharpCompress.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.csproj.AssemblyReference.cache
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.AssemblyInfoInputs.cache
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.AssemblyInfo.cs
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.csproj.CoreCompileInputs.cache
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.MvcApplicationPartsAssemblyInfo.cs
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.MvcApplicationPartsAssemblyInfo.cache
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\staticwebassets.build.json
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\staticwebassets.development.json
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\scopedcss\bundle\microserviceOfOutgoingPayments.styles.css
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.csproj.CopyComplete
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\ref\microserviceOfOutgoingPayments.dll
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.pdb
+C:\git\microserviceOfOutgoingPayments\microserviceOfOutgoingPayments\obj\Debug\net6.0\microserviceOfOutgoingPayments.genruntimeconfig.cache

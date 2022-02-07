@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uN/ZWqCBxwa7oJiQHCZcAFkr2A8VbXspXOW4J5615yU=",
+  "Source": "microserviceOfOutgoingPayments",
+  "BasePath": "_content/microserviceOfOutgoingPayments",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
